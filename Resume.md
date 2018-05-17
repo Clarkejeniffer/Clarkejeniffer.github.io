@@ -21,6 +21,9 @@
     Area of Concentration in Business Economics
 * Studied advertisement under economist and marketer 
 
+##### High School
+Something about high school.
+
 ### Work:
 ##### advertisement 
 I advertise series of products throughout the world. 
