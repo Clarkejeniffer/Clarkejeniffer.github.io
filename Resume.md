@@ -36,7 +36,7 @@ I am a competent economist by my profession and I have once worked in textile st
 
 ### Social networking
 * Google+: jenifferclarke5@gmail.com
-* Github:http://github.com/clarkejeniffer/
+* Github:  http://github.com/clarkejeniffer/
 * LinkedIn:
 * Twitter:
 * Pocket:
