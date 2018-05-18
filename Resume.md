@@ -31,7 +31,22 @@ I am a competent economist by my profession and I have once worked in textile st
 
 ## Interests:
 ### Volenteer
-* deliver meals to the elderly 
+* deliver meals to the elderly
+* animal shelters
+
+## Hobbies
+* Kaeoke _List no more than 3 of your favorite songs to sing_
+* Dance [https://en.wikipedia.org/wiki/List_of_dance_style_categories](https://en.wikipedia.org/wiki/List_of_dance_style_categories)
+  * Foxtrot
+* Art
+  * Museums
+  * Vector Graphics
+  * Acrylic Landscapes
+  * Charcoal Sketch
+* Languages
+  * Spanish (Novice)
+  * Catalan (Tourist)
+  * Portuguese (Tourist)
 
 ### Social networking
 * Google+: jenifferclarke5@gmail.com
