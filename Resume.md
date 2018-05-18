@@ -20,7 +20,14 @@
     Associate of Science degree in Arts and Sciences
     Area of Concentration in Business Economics
     
-* Studied advertisement under economist and marketer 
+* Favorite class: *Principles of Macroeconomics*
+> An introduction to basic economic concepts regarding demand and supply, comparative economic
+systems, and national accounts, employment theory, and fiscal and monetary policy, emphasizing
+the interplay of households, business, and government in various economic situations.
+* *Principles of Advertising* under economist and marketer
+> This course was a study of promotional strategies, campaigns and activities for public and
+  commercial enterprises. I learned development of advertising plans, selection of media, e-marketing,
+  and assessment of advertising campaigns.
 * Graduated 2011
 
 #### [Saint George Academy (SGA)](https://saintgeorgeacademy.net/)
