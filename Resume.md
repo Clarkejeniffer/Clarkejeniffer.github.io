@@ -19,13 +19,15 @@
     Area of Concentration in Business Economics
     
 * Studied advertisement under economist and marketer 
+* Graduated 2011
 
 #### [Saint George Academy (SGA)](https://saintgeorgeacademy.net/)
     in the East Village in New York City
     215 E 6th St
     Manhattan, New York, New York   10003 
 
-*  Inter house sports competition
+* Inter house sports competition
+* Graduated 2005
 
 ### Work:
 
