@@ -17,8 +17,10 @@
     Area of Concentration in Business Economics
 * Studied advertisement under economist and marketer 
 
-##### High School
-Something about high school.
+##### [Saint George Academy (SGA)](https://saintgeorgeacademy.net/)
+    in the East Village in New York City
+    215 E 6th St
+    Manhattan, New York, New York   10003 
 
 ### Work:
 ##### advertisement 
