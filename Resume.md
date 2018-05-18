@@ -20,26 +20,26 @@
     Associate of Science degree in Arts and Sciences
     Area of Concentration in Business Economics
     
-* Favorite class: *Principles of Macroeconomics*
+##### Favorite class: *Principles of Macroeconomics*
 > An introduction to basic economic concepts regarding demand and supply, comparative economic
 systems, and national accounts, employment theory, and fiscal and monetary policy, emphasizing
 the interplay of households, business, and government in various economic situations.
-* *Principles of Advertising* under economist and marketer
+##### *Principles of Advertising* under economist and marketer
 > This course was a study of promotional strategies, campaigns and activities for public and
   commercial enterprises. I learned development of advertising plans, selection of media, e-marketing,
   and assessment of advertising campaigns.
-* Graduated 2011
+##### Graduated 2011
 
 #### [Saint George Academy (SGA)](https://saintgeorgeacademy.net/)
     in the East Village in New York City
     215 E 6th St
     Manhattan, New York, New York   10003 
 
-* Inter house sports competition
-* Graduated 2005
+##### Inter house sports competition
+##### Graduated 2005
 
 #### Skills
-* Vector Graphics
+* Scalable Vector Graphics
 * CorelDraw
 
 ### Work:
