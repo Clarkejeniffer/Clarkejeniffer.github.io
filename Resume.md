@@ -1,16 +1,12 @@
 # resume _Clarke Jeniffer_ economist and marketer 
 [🏠](Home.html)
-## Contact
-### Mail:  [Lookup Street name](https://geographic.org/streetview/usa/wv/mineral/ridgeley.html)            
-    Clarke Jeniffer       
-    515 Evergreen mobile part 
-    Ridgeley  WV   26753
+## Contact [Lookup Street name](https://geographic.org/streetview/usa/wv/mineral/ridgeley.html)
 
-### E-Mail:
-* jenifferclarke5@gmail.com
-
-### Website: 
-* [https//clarkejeniffer.github.io](https//clarkejeniffer.github.io)
+| Mail: | E-Mail: |             
+| :--- | ---: |
+| Clarke Jeniffer | jenifferclarke5@gmail.com |      
+| 515 Evergreen mobile part | [https//clarkejeniffer.github.io](https//clarkejeniffer.github.io) |
+| Ridgeley  WV   26753 | |
 
 ## History
 ### Education: 
