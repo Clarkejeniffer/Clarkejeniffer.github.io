@@ -15,6 +15,7 @@
     Division of Business and Technologies
     Associate of Science degree in Arts and Sciences
     Area of Concentration in Business Economics
+    
 * Studied advertisement under economist and marketer 
 
 ##### [Saint George Academy (SGA)](https://saintgeorgeacademy.net/)
