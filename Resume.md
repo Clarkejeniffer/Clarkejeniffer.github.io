@@ -29,6 +29,10 @@
 * Inter house sports competition
 * Graduated 2005
 
+#### Skills
+* Vector Graphics
+* CorelDraw
+
 ### Work:
 
 ##### advertisement 
@@ -46,12 +50,18 @@ I am a competent economist by my profession and I have once worked in textile st
 * animal shelters
 
 ## Hobbies
-* Kaeoke _List no more than 3 of your favorite songs to sing_
-* Dance [https://en.wikipedia.org/wiki/List_of_dance_style_categories](https://en.wikipedia.org/wiki/List_of_dance_style_categories)
-  * Foxtrot
+* Entertainment
+  * Running (4 miles per day)
+  * Being outdoors
+  * Kaeoke
+    * At Your Best
+  * Music
+    * RnB
+  * Dance [https://en.wikipedia.org/wiki/List_of_dance_style_categories](https://en.wikipedia.org/wiki/List_of_dance_style_categories)
+    * French Jive
 * Art
-  * Museums
-  * Vector Graphics
+  * I draw a cartoon strip I began when I was 10.
+  * Museums, especially Art and Natural History
   * Acrylic Landscapes
   * Charcoal Sketch
 * Languages
