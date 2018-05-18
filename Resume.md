@@ -1,4 +1,5 @@
 <figure><img src="images/favicon/favicon-96x96.png" style="display: inline;"></figure>
+
 # resume _Clarke Jeniffer_ economist and marketer 
 [🏠](Home.html) 
 ## Contact [Lookup Street name](https://geographic.org/streetview/usa/wv/mineral/ridgeley.html)
