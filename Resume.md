@@ -9,8 +9,10 @@
 | Ridgeley  WV   26753 | |
 
 ## History
+
 ### Education: 
-##### [Allegany College of Maryland](https://www.allegany.edu/)
+
+#### [Allegany College of Maryland](https://www.allegany.edu/)
     Community college in Cumberland, Maryland
     Division of Business and Technologies
     Associate of Science degree in Arts and Sciences
@@ -18,17 +20,21 @@
     
 * Studied advertisement under economist and marketer 
 
-##### [Saint George Academy (SGA)](https://saintgeorgeacademy.net/)
+#### [Saint George Academy (SGA)](https://saintgeorgeacademy.net/)
     in the East Village in New York City
     215 E 6th St
     Manhattan, New York, New York   10003 
 
+*  Inter house sports competition
+
 ### Work:
+
 ##### advertisement 
 I advertise series of products throughout the world. 
 I am a competent economist by my profession and I have once worked in textile store, I was layed off job because I relocated fron Los Angelos California to Ridgeley West Virginia
 
 ### project
+
 ##### Trademark, Logo Mark
 * for big company 
 
