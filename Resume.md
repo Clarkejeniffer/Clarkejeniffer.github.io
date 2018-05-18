@@ -62,7 +62,7 @@ I am a competent economist by my profession and I have once worked in textile st
 * Entertainment
   * Running (4 miles per day)
   * Being outdoors
-  * Kaeoke
+  * Kareoke
     * At Your Best
   * Music
     * RnB
