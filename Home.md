@@ -18,4 +18,5 @@
 ## Admin Menu
 * ### [GitHub Welcome](Welcome.html)
 
+* * *
 *Copyright © 2018 Clarke Jeniffer* 
