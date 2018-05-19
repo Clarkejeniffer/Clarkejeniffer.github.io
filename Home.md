@@ -5,7 +5,7 @@
 ## Main Menu
 * ### [Resume](Resume.html)
 * ### [Catalog](Catalog.html)
-* ### [Portfolio](Porfolio.html)
+* ### [Portfolio](Portfolio.html)
 * ### [Posts](Posts.html)
 
 ## Legal Notices
