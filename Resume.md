@@ -93,3 +93,27 @@ the interplay of households, business, and government in various economic situat
 
 * * *
 [🏠](Home.html) Copyright © 2018 Clarke Jeniffer
+
+<script type='application/ld+json'>
+{
+	"@context": "http://schema.org/",
+	"@type": "School",
+	"alumni": {
+		"@type": "Person",
+		"honorificSuffix": "AS",
+		"name": "Clarke Jeniffer"
+	},
+	"address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Manhattan",
+		"addressRegion": "New York",
+		"postalCode": "10003",
+		"streetAddress": "215 E 6th St"
+	},
+	"addressLocality": "New York",
+	"areaServed": "in the East Village in New York City",
+	"alternateName": "SGA",
+	"mainEntityOfPage": "https://saintgeorgeacademy.net/",
+	"name": "Saint George Academy"
+}
+</script>
