@@ -9,11 +9,11 @@
 * ### [Posts](Posts.html)
 
 ## Legal Notices
-* ### [Imprint](Imprint.html)
-* ### [Attributions](Attributions.html)
-* ### [Privacy Policy](Privacy.html)
-* ### [Terms of Service](Tos.html)
-* ### [Disclaimer](Disclaimer.html)
+* ### [Imprint](legal/Imprint.html)
+* ### [Attributions](legal/Attributions.html)
+* ### [Privacy Policy](legal/Privacy.html)
+* ### [Terms of Service](legal/Tos.html)
+* ### [Disclaimer](legal/Disclaimer.html)
 
 ## Admin Menu
 * ### [GitHub Welcome](Welcome.html)
