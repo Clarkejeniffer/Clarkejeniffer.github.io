@@ -58,7 +58,7 @@ the interplay of households, business, and government in various economic situat
 * 2018 for Davsk 
 
 ## Interests:
-### Volenteer
+### Volunteer
 * nursing home
 * library
 
