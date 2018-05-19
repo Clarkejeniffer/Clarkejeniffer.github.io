@@ -1,7 +1,6 @@
 <figure><img src="images/favicon/favicon-196x196.png" style="display: inline; position: absolute; top: 48px; left: 48px"></figure>
 
-# Home Page for _Clarke Jeniffer_
-
+# Home Page
 ## Main Menu
 * ### [Resume](Resume.html)
 * ### [Catalog](Catalog.html)
