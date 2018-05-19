@@ -37,5 +37,5 @@ This is what I really want to do.
   * total cost of contract never exceeds the lump sum limit
   * additional charge for change orders at contract rate
   
----
-[🏠](Home.html)
+* * *
+[🏠](Home.html) Copyright © 2018 Clarke Jeniffer
