@@ -1,4 +1,4 @@
-<figure><img src="images/favicon/favicon-96x96.png" style="display: inline;"></figure>
+<figure><img src="images/favicon/favicon-96x96.png" style="display: inline; position: float"></figure>
 
 # resume _Clarke Jeniffer_ economist and marketer 
 [🏠](Home.html) 
@@ -7,7 +7,7 @@
 | Mail: | E-Mail: |             
 | :--- | ---: |
 | Clarke Jeniffer | jenifferclarke5@gmail.com |      
-| 515 Evergreen mobile part | [https//clarkejeniffer.github.io](https//clarkejeniffer.github.io) |
+| 515 Ridgeley St Evergreen mobile part | [https//clarkejeniffer.github.io](https//clarkejeniffer.github.io) |
 | Ridgeley  WV   26753 | |
 
 ## History
@@ -44,14 +44,18 @@ the interplay of households, business, and government in various economic situat
 
 ### Work:
 
-##### advertisement 
-I advertise series of products throughout the world. 
-I am a competent economist by my profession and I have once worked in textile store, I was layed off job because I relocated fron Los Angelos California to Ridgeley West Virginia
+#### Freelance 2012 - Present
+
+#### [Ben Textiles Inc](http://bentextiles.com/about/)
+* Wholesale Fabrics/Distribution House/Exporter/Importer
+* I advertise series of products throughout the world.
+* From October 20th 2006
+* Till December 17th 2009
 
 ### project
 
 ##### Trademark, Logo Mark
-* for big company 
+* 2018 for Davsk 
 
 ## Interests:
 ### Volenteer
