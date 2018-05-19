@@ -2,12 +2,12 @@
 
 # resume _Clarke Jeniffer_  
 [🏠](Home.html) 
-## Contact [Lookup Street name](https://geographic.org/streetview/usa/wv/mineral/ridgeley.html)
+## Contact 
 
-| Mail: | E-Mail: |             
+| ~~Mail:~~ | E-Mail: |             
 |:-------------------------------------------|---------------------------------:|
 | Clarke Jeniffer | jenifferclarke5@gmail.com |      
-| 515 Ridgeley St Evergreen mobile part | [https//clarkejeniffer.github.io](https//clarkejeniffer.github.io) |
+| ~~Ridgeley St~~ | [https//clarkejeniffer.github.io](https//clarkejeniffer.github.io) |
 | Ridgeley  WV   26753 | |
 
 ## History
@@ -59,24 +59,24 @@ the interplay of households, business, and government in various economic situat
 
 ## Interests:
 ### Volenteer
-* deliver meals to the elderly
-* animal shelters
+* nursing home
+* library
 
 ## Hobbies
 * Entertainment
   * Running (4 miles per day)
   * Being outdoors
   * Kareoke
-    * At Your Best
+    * Lets Get It On
   * Music
     * RnB
-  * Dance [https://en.wikipedia.org/wiki/List_of_dance_style_categories](https://en.wikipedia.org/wiki/List_of_dance_style_categories)
-    * French Jive
+  * Dance 
+    * Zumba
 * Art
   * I draw a cartoon strip I began when I was 10.
   * Museums, especially Art and Natural History
-  * Acrylic Landscapes
-  * Charcoal Sketch
+  * Watercolor Flowers
+  * Sketching, Mixed Media, Charcoal, Pencil, Pastels, 
 * Languages
   * Spanish (Novice)
   * Catalan (Tourist)
