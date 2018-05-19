@@ -5,7 +5,7 @@
 
 ## HTML, SCSS, & TS Code for https://github.com/Clarkejeniffer/Clarkejeniffer.github.io
 
-I want to thank @comaldave for assisting with the formatting of the Mark Down files and for creating 
+I want to thank David Skinner of Davsk℠ for assisting with the formatting of the Mark Down files and for creating 
 
 _HTML, SCSS, & TS Code for https://github.com/Clarkejeniffer/Clarkejeniffer.github.io_ 
 
