@@ -1,4 +1,4 @@
-<figure><img src="images/favicon/favicon-96x96.png" style="display: inline; position: relative; top: 0; left: 0"></figure>
+<figure><img src="images/favicon/mstile-310x310.png" style="display: inline; position: absolute; top: 32px; left: 20%"></figure>
 
 # resume _Clarke Jeniffer_  
 [🏠](Home.html) 
