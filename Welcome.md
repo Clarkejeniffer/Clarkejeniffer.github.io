@@ -1,3 +1,5 @@
+<figure><img src="images/favicon/favicon-196x196.png" style="display: inline; position: absolute; top: 48px; left: 48px"></figure>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Clarkejeniffer/Clarkejeniffer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
