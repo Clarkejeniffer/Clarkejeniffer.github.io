@@ -23,7 +23,7 @@ This is what I really want to do.
 | :--- | ---: |
 | Trademark Logo | $100.00 |
 | Single Page Website | $200.00 |
-| Small Static Website | $1,000 |
+| Small Static Website | $1,000.00 |
 
 ### Contract Rates
 * Retainer Agreements 
