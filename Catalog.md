@@ -1,3 +1,5 @@
+<figure><img src="images/favicon/favicon-96x96.png" style="display: inline; float: left; margin-right:96px"></figure>
+
 # Catalog of Services Available 
 [🏠](Home.html)
 
