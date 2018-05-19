@@ -62,7 +62,7 @@ the interplay of households, business, and government in various economic situat
 * nursing home
 * library
 
-## Hobbies
+### Hobbies
 * Entertainment
   * Running (4 miles per day)
   * Being outdoors
